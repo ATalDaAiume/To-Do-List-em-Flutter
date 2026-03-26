@@ -54,7 +54,7 @@ Siga os passos abaixo para rodar o aplicativo no seu ambiente local:
 - Framework Flutter
 - Linguagem Dart
 - VS Code / Android Studio
-- Estado Nativo: StatefulWidget, TextEditingController e AnimatedListState.
+- Estado Nativo: `StatefulWidget`, `TextEditingController` e `AnimatedListState`.
 
 ### 📝 Observações
-Sempre que uma lista é modificada (adição, edição ou exclusão), o setState() é acionado para garantir a atualização instantânea em conjunto com as transições visuais do ecrã. 🚀
+Sempre que uma lista é modificada (adição, edição ou exclusão), o `setState()` é acionado para garantir a atualização instantânea em conjunto com as transições visuais do ecrã. 🚀
