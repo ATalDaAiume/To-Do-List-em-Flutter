@@ -135,7 +135,6 @@ class _TodoListHomePageState extends State<TodoListHomePage> {
       child: Card(
         margin: EdgeInsets.symmetric(horizontal: 16.0, vertical: 6.0),
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-        // Cores suaves combinando com o tema
         color: tarefa.concluida ? Colors.purple.shade100 : Colors.white,
         elevation: tarefa.concluida ? 0 : 3,
         shadowColor: Colors.deepPurple.shade200,
