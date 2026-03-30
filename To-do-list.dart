@@ -11,9 +11,8 @@ class MeuTodoListApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'To-Do List 💜',
       theme: ThemeData(
-        // Tema principal alterado para tons de roxo
         primarySwatch: Colors.deepPurple,
-        scaffoldBackgroundColor: Colors.purple.shade50, // Fundo levemente arroxeado
+        scaffoldBackgroundColor: Colors.purple.shade50,
       ),
       home: TodoListHomePage(),
     );
