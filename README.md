@@ -1,4 +1,4 @@
-![Atividade](https://img.shields.io/badge/atividade-Flutter-blue)
+![Atividade](https://img.shields.io/badge/Atividade-Flutter-blue)
 ![Dart](https://img.shields.io/badge/Linguagem-Dart-00b4ab)
 
 # 💜 App de Lista de Tarefas (To-Do List)
