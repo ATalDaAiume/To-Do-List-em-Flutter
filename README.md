@@ -2,7 +2,7 @@
 ![Dart](https://img.shields.io/badge/Linguagem-Dart-00b4ab)
 
 # 💜 App de Lista de Tarefas (To-Do List)
-> Resolução de Atividade Prática — Aula 7 | Análise e Desenvolvimento de Sistemas | 5ª Fase
+> Resolução de Atividade Prática — Aula 7
 
 **Aluna:** Eloize Aiume de Liz Pereira | **Turma:** 5ª Fase — Análise e Desenvolvimento de Sistemas (2026/1)
 
